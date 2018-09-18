@@ -42,7 +42,7 @@ public class Player {
 	}
 	
 	public double tb() {
-		return h+2.0*d+3.0*t+4.0*hr;
+		return h+d+2.0*t+3.0*hr;
 	}
-
+	
 }
